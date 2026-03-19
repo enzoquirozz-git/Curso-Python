@@ -1,2 +1,2 @@
 # Curso-Python
-en esto repositorio voy a ir subiendo archivos de mi curso de python
+con esto voy a ir generando un habito para poder seguir estudiando
