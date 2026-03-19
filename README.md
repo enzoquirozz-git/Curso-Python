@@ -1,7 +1,5 @@
 # Curso-Python
-# 🚀 Fullstack Path: Python & Web Development
-
-Hola! Este es mi repositorio personal donde documento mi aprendizaje y evolución en el desarrollo de software. Aquí guardo todos los ejercicios y proyectos que voy realizando en mi formación.
+Hola! Este es mi repositorio personal donde documento mi aprendizaje y evolución en el lenguaje Python. Aquí guardo todos los ejercicios y proyectos que voy realizando en mi formación.
 
 ---
 
